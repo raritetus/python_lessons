@@ -1,1 +1,1 @@
-# python_lessons
+# repository for python lessons
